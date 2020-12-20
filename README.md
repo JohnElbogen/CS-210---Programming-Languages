@@ -23,9 +23,9 @@ I did this by organizing features and functions.  The organization was based on 
 
 ```
 cout << left
-		<< setw(8) << year << "$"
-		<< setw(23) << accountBal << "$"
-		<< setw(20) << interestEarned << endl;
+	<< setw(8) << year << "$"
+	<< setw(23) << accountBal << "$"
+	<< setw(20) << interestEarned << endl;
 ```
  
 This helps seperate and make the code more readable, as the line is not overcrowded.
