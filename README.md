@@ -21,9 +21,11 @@ I think utilizing functions, creating modular - reusable code, and displaying in
 How did you make this program maintainable, readable, and adaptable?
 I did this by organizing features and functions.  The organization was based on the order a user would want to access a function.  For example in my menu, the first option is to enter initial amount.  Therefore in my function layout, the first function is the getInitAmt function.  This makes sense when testing, to know where to look for the function.  For readability there were portions written in order to avoid messy code.  The example being, when formatting information.  Rather then write this on one line I wrote it as the following:
 
+```
 cout << left
 		<< setw(8) << year << "$"
 		<< setw(23) << accountBal << "$"
 		<< setw(20) << interestEarned << endl;
+```
  
 This helps seperate and make the code more readable, as the line is not overcrowded.
