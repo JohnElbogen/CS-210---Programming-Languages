@@ -7,7 +7,7 @@ John Elbogen
 This project was designed to calculate balance and interest earned based on investment amounts, monthly deposits, annual interest rates, and total number of years.  Also this project allows users to display their results, and edit their inputs as necessary.
 
 **What did you do particularly well?**
-I believe the two strong points of this code inclue the modularity of each function and how I displayed and update my information.  The display information refreshes to show the menu and results on each input.  This leads to more readable results for the user.
+I believe the two strong points of this code include the modularity of each function and how I displayed and update my information.  The display information refreshes to show the menu and results on each input.  This leads to more readable results for the user.
 
 **Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?**
 I think I could enhance my code I would add a clock to measure calculation times.  By doing this, I could calculate how long each function was taking to process, and look for more places to add efficient code.  For example I may be more careful and create less instances of storage within memory.
