@@ -3,6 +3,8 @@ SNHU CS-210 Repository
 John Elbogen
 12/20/20
 
+The Git the full program file + seperate code files for easy viewing
+
 **Summarize the project and what problem it was solving.**
 This project was designed to calculate balance and interest earned based on investment amounts, monthly deposits, annual interest rates, and total number of years.  Also this project allows users to display their results, and edit their inputs as necessary.
 
